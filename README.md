@@ -1,2 +1,3 @@
 <h1>  Hi i'm Dodoz  </h1>⠀
-<p> </p>
+<hr>
+<p> Currently im learning Js</p>
