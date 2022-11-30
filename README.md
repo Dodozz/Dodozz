@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dodoz</h1>
 <h3 align="center">frontend developer</h3>
 
-<p align="left"> <a href="https://twitter.com/dodoz" target="blank"><img src="https://img.shields.io/twitter/follow/dodoz?logo=twitter&style=for-the-badge" alt="dodoz" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@ydodoz" target="blank"><img src="https://img.shields.io/twitter/follow/@ydodoz?logo=twitter&style=for-the-badge" alt="@ydodoz" /></a> </p>
 
 - 🔭 I’m currently working on [My Website](https://dodoz.ml/)
 
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@dodozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@dodozz" height="30" width="40" /></a>
-<a href="https://twitter.com/dodoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dodoz" height="30" width="40" /></a>
+<a href="https://twitter.com/@ydodoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ydodoz" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/dodoz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dodoz" height="30" width="40" /></a>
 <a href="https://discord.gg/Dodoz#0666" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Dodoz#0666" height="30" width="40" /></a>
 </p>
