@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://twitter.com/@ydodoz" target="blank"><img src="https://img.shields.io/twitter/follow/@ydodoz?logo=twitter&style=for-the-badge" alt="@ydodoz" /></a> </p>
 
-<cemter> 
+ 
 - 🔭 I’m currently working on [My Website](https://dodoz.ml/)
 
 - 🌱 I’m currently learning **LUA**
@@ -17,7 +17,7 @@
 - 📫 How to reach me **diamondodoz@gmail.com**
 
 - 📲 Discord **Dodoz#0666**
-</center>
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
