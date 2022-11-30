@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dodoz</h1>
 <h3 align="center">frontend developer</h3>
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/484196/screenshots/3332744/media/c27cf2084338fa9a2cce554f1edcadc6.gif")
+
 
 <p align="left"> <a href="https://twitter.com/@ydodoz" target="blank"><img src="https://img.shields.io/twitter/follow/@ydodoz?logo=twitter&style=for-the-badge" alt="@ydodoz" /></a> </p>
 
