@@ -1,4 +1,4 @@
-<h1 align="">Hi 👋, I'm Dodoz</h1>
+<h1 align="">[Dev]Dodoz</h1>
 <h3 align="">frontend developer | Roblox Scripting</h3>
 
 <p align=""> <a href="https://twitter.com/@ydodoz" target="blank"><img src="https://img.shields.io/twitter/follow/@ydodoz?logo=twitter&style=for-the-badge" alt="@ydodoz" /></a> </p>
