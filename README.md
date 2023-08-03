@@ -4,21 +4,6 @@
 <p align=""> <a href="https://twitter.com/@ydodoz" target="blank"><img src="https://img.shields.io/twitter/follow/@ydodoz?logo=twitter&style=for-the-badge" alt="@ydodoz" /></a> </p>
 
 
-- 🔭 I’m currently working on [My Website](https://dodoz.ml/)
-
-- 🌱 I’m currently learning **LUA**
-
-- 🤝 I’m looking for help with **C#**
-
-- 👨‍💻 All of my projects are available at [https://dodoz.ml/](https://dodoz.ml/)
-
-- 💬 Ask me about **HTML,CSS**
-
-- 📫 How to reach me **diamondodoz@gmail.com**
-
-- 📲 Discord **Dodoz#0666**
-
-
 <h3 align="">Connect with me:</h3>
 <p align="">
 <a href="https://dev.to/@dodozz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@dodozz" height="30" width="40" /></a>
