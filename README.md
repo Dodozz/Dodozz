@@ -51,7 +51,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dodozz.Dodozz&left_color=black&right_color=mediumpurple"  />
 </div>
 
