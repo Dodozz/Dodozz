@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="300" src="https://share.creavite.co/660be97a9e451d6a090c4e69.gif"  />
+<img align="right" height="200" src="https://share.creavite.co/660be97a9e451d6a090c4e69.gif"  />
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
