@@ -1,10 +1,10 @@
 <h2 align="center">Hi, im Adriel</h2>
 
-###
+
 
 <img align="right" height="300" src="https://share.creavite.co/660be97a9e451d6a090c4e69.gif"  />
 
-###
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dodozz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=false" height="150" alt="stats graph"  />
@@ -12,7 +12,7 @@
   <img src="https://streak-stats.demolab.com?user=Dodozz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
@@ -32,7 +32,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.youtube.com/@vDodoz" target="_blank">
@@ -53,10 +53,10 @@
   </a>
 </div>
 
-###
+
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Dodozz.Dodozz&left_color=black&right_color=mediumpurple"  />
 </div>
 
-###
+
