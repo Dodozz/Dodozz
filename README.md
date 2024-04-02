@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="300" src="https://share.creavite.co/660be97a9e451d6a090c4e69.gif"  />
+<img align="right" height="200" src="https://share.creavite.co/660be97a9e451d6a090c4e69.gif"  />
 
 ###
 
