@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://share.creavite.co/660bf0329e451d6a090c4e71.gif"  />
+  <img height="400" src="https://share.creavite.co/660bf0329e451d6a090c4e71.gif"  />
 </div>
 
 ###
