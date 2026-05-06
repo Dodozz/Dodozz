@@ -43,7 +43,7 @@
 ```yaml
 name: Adriel
 username: Dodozz
-location: 🌎
+location: mx
 currently_learning: Always something new
 interests:
   - 💻 Full Stack Development
@@ -54,7 +54,6 @@ hobbies:
   - 🎬 Content Creation
   - 🎮 Gaming
   - 🎵 Music
-motto: "Code is poetry written in logic"
 ```
 
 <br clear="both"/>
@@ -211,5 +210,5 @@ motto: "Code is poetry written in logic"
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--  💜 Made with love by Adriel | github.com/Dodozz                 -->
+<!--  💜 Made by Adriel | github.com/Dodozz                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
