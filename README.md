@@ -38,7 +38,7 @@
 
 ## <img src="https://i.pinimg.com/736x/40/87/f2/4087f227f1deef95b5d483eacfc64e05.jpg" width="28"> &nbsp;About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+<img align="right" src="https://i.pinimg.com/736x/40/87/f2/4087f227f1deef95b5d483eacfc64e05.jpg" width="300" />
 
 ```yaml
 name: Adriel
