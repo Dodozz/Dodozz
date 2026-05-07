@@ -112,25 +112,6 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTION SNAKE                            -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dodozz/Dodozz/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dodozz/Dodozz/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Dodozz/Dodozz/output/github-snake-dark.svg" width="95%" />
-  </picture>
-</div>
-
-> 💡 *To enable the snake animation, add a GitHub Action workflow to your profile repo. See [snk](https://github.com/Platane/snk) for setup instructions.*
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        CONNECT                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
@@ -172,9 +153,6 @@
 
 <div align="center">
 
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" width="70%" />
-
   <br/><br/>
 
   <!-- Spotify (Optional - placeholder) -->
@@ -185,5 +163,3 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  💜 Made by Adriel | github.com/Dodozz                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-- name: generate-snake-game-from-github-contribution-grid
-  uses: Platane/snk@v3.5.0
