@@ -32,29 +32,7 @@
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                   -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-## <img src="https://i.pinimg.com/736x/40/87/f2/4087f227f1deef95b5d483eacfc64e05.jpg" width="28"> &nbsp;About Me
-
-<img align="right" src="https://i.pinimg.com/736x/40/87/f2/4087f227f1deef95b5d483eacfc64e05.jpg" width="300" />
-
-```yaml
-name: Adriel
-username: Dodozz
-location: mx
-currently_learning: Always something new
-interests:
-  - 💻 Full Stack Development
-  - 🎮 Script dev
-  - 🎨 UI/UX Design
-```
-
-<br clear="both"/>
-
-<!-- Animated Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--                        TECH STACK                                 -->
