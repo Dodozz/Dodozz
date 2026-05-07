@@ -181,7 +181,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!%20%F0%9F%92%9C&fontSize=24&fontColor=ffffff&animation=twinkling&fontAlignY=65" width="100%" />
 
 </div>
-
+      
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 <!--  💜 Made by Adriel | github.com/Dodozz                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
+- name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v3.5.0
