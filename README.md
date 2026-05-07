@@ -47,13 +47,8 @@ location: mx
 currently_learning: Always something new
 interests:
   - 💻 Full Stack Development
-  - 🎮 Game Development
+  - 🎮 Script dev
   - 🎨 UI/UX Design
-  - 🧠 Problem Solving
-hobbies:
-  - 🎬 Content Creation
-  - 🎮 Gaming
-  - 🎵 Music
 ```
 
 <br clear="both"/>
